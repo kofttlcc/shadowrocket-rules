@@ -176,17 +176,17 @@
     "reject": {
       "duplicates_removed": 0,
       "input": "ruleset/reject.txt",
-      "input_rule_count": 192363,
-      "input_sha256": "3b1f42902c1a476a8b2acf80d4e1841ee6bcda474caa51561a6833876ee40608",
-      "output_rule_count": 192363,
+      "input_rule_count": 192682,
+      "input_sha256": "2b44ddbb6b00793eaacaafeb67aedc3791ba3c2fc80a4ebdb71387f582df2f09",
+      "output_rule_count": 192682,
       "outputs": {
         "reject.txt": {
-          "bytes": 6685988,
-          "sha256": "81e097221e6c1c6e05f2dccf5048602eba4523416f65715fafe18be9a2b768c9"
+          "bytes": 6696531,
+          "sha256": "03990dac7c90389cb3f09845acc031726d196b1ead4814bcc171b9b05bafd98b"
         },
         "ruleset/reject.txt": {
-          "bytes": 6685988,
-          "sha256": "81e097221e6c1c6e05f2dccf5048602eba4523416f65715fafe18be9a2b768c9"
+          "bytes": 6696531,
+          "sha256": "03990dac7c90389cb3f09845acc031726d196b1ead4814bcc171b9b05bafd98b"
         }
       }
     },
@@ -229,6 +229,6 @@
   "upstream": {
     "branch": "release",
     "repository": "Loyalsoldier/surge-rules",
-    "sha": "d6d0f037e2922d824b858a537a3d3b7229778d93"
+    "sha": "722b8b7033a75ce4d73fca2c629939e116f27e65"
   }
 }
