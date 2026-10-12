@@ -40,51 +40,51 @@
     "cncidr": {
       "duplicates_removed": 0,
       "input": "ruleset/cncidr.txt",
-      "input_rule_count": 9648,
-      "input_sha256": "eea865d449120d9f806f4a1cfce85b657b77ca7fec5459dcdcd44d5ca0731be4",
-      "output_rule_count": 9648,
+      "input_rule_count": 9609,
+      "input_sha256": "b6dd1fb115b7110c1eb4f33a4844d458f0e31b378d99ddebf56b3e34396c0f77",
+      "output_rule_count": 9609,
       "outputs": {
         "cncidr.txt": {
-          "bytes": 230933,
-          "sha256": "2c2986720451c81bdcbdc27a28c4cd6e11fc19e6cce587aa1194067d7ca534b4"
+          "bytes": 230034,
+          "sha256": "3376f850bb29d2ae310d461d2df045252f486843caeeb89633f9543ce694d684"
         },
         "ruleset/cncidr.txt": {
-          "bytes": 230933,
-          "sha256": "2c2986720451c81bdcbdc27a28c4cd6e11fc19e6cce587aa1194067d7ca534b4"
+          "bytes": 230034,
+          "sha256": "3376f850bb29d2ae310d461d2df045252f486843caeeb89633f9543ce694d684"
         }
       }
     },
     "direct": {
       "duplicates_removed": 0,
       "input": "ruleset/direct.txt",
-      "input_rule_count": 111353,
-      "input_sha256": "24dc0375d42da803c6c86bbb83f845fcf453fc86e8866c32402ae8918755621c",
-      "output_rule_count": 111353,
+      "input_rule_count": 110924,
+      "input_sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714",
+      "output_rule_count": 110924,
       "outputs": {
         "direct.txt": {
-          "bytes": 2968949,
-          "sha256": "24dc0375d42da803c6c86bbb83f845fcf453fc86e8866c32402ae8918755621c"
+          "bytes": 2956715,
+          "sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714"
         },
         "ruleset/direct.txt": {
-          "bytes": 2968949,
-          "sha256": "24dc0375d42da803c6c86bbb83f845fcf453fc86e8866c32402ae8918755621c"
+          "bytes": 2956715,
+          "sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714"
         }
       }
     },
     "gfw": {
       "duplicates_removed": 0,
       "input": "ruleset/gfw.txt",
-      "input_rule_count": 4393,
-      "input_sha256": "1da03f02f6f92fb75b1b917150d4a2373e9717d12922fcad99216e422dfbf119",
-      "output_rule_count": 4393,
+      "input_rule_count": 4429,
+      "input_sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124",
+      "output_rule_count": 4429,
       "outputs": {
         "gfw.txt": {
-          "bytes": 120553,
-          "sha256": "1da03f02f6f92fb75b1b917150d4a2373e9717d12922fcad99216e422dfbf119"
+          "bytes": 121495,
+          "sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124"
         },
         "ruleset/gfw.txt": {
-          "bytes": 120553,
-          "sha256": "1da03f02f6f92fb75b1b917150d4a2373e9717d12922fcad99216e422dfbf119"
+          "bytes": 121495,
+          "sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124"
         }
       }
     },
@@ -159,34 +159,34 @@
     "proxy": {
       "duplicates_removed": 0,
       "input": "ruleset/proxy.txt",
-      "input_rule_count": 27111,
-      "input_sha256": "e4121ea2c04048f8345c8442bc1a726e59b1251dfb8810f19ba216b3d1f338d6",
-      "output_rule_count": 27111,
+      "input_rule_count": 27233,
+      "input_sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb",
+      "output_rule_count": 27233,
       "outputs": {
         "proxy.txt": {
-          "bytes": 777099,
-          "sha256": "e4121ea2c04048f8345c8442bc1a726e59b1251dfb8810f19ba216b3d1f338d6"
+          "bytes": 780273,
+          "sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb"
         },
         "ruleset/proxy.txt": {
-          "bytes": 777099,
-          "sha256": "e4121ea2c04048f8345c8442bc1a726e59b1251dfb8810f19ba216b3d1f338d6"
+          "bytes": 780273,
+          "sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb"
         }
       }
     },
     "reject": {
       "duplicates_removed": 0,
       "input": "ruleset/reject.txt",
-      "input_rule_count": 187402,
-      "input_sha256": "07636004bc624fc96e833164a8ff3aafcee9e6dc86a64a287d2ed218cb73c394",
-      "output_rule_count": 187402,
+      "input_rule_count": 191252,
+      "input_sha256": "52589435213e0769dd7f5aea1e3f79a9f791d452df2ce6f8d894dee8548d4c96",
+      "output_rule_count": 191252,
       "outputs": {
         "reject.txt": {
-          "bytes": 6519675,
-          "sha256": "163a47f40330ef2fd159583c7026de48fe59635c84387d3a10909bc58cb7ca4a"
+          "bytes": 6650669,
+          "sha256": "fb30f338a24b7de7339861f8ff05b77d83974fd992922913b3311f830cdc06f8"
         },
         "ruleset/reject.txt": {
-          "bytes": 6519675,
-          "sha256": "163a47f40330ef2fd159583c7026de48fe59635c84387d3a10909bc58cb7ca4a"
+          "bytes": 6650669,
+          "sha256": "fb30f338a24b7de7339861f8ff05b77d83974fd992922913b3311f830cdc06f8"
         }
       }
     },
@@ -229,6 +229,6 @@
   "upstream": {
     "branch": "release",
     "repository": "Loyalsoldier/surge-rules",
-    "sha": "292a0c46dea0cdb4324924af02cd8ee3822e311a"
+    "sha": "e76fa3463d3c5e600e8d64617f27cc8a462d49ac"
   }
 }
