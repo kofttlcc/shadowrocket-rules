@@ -40,51 +40,51 @@
     "cncidr": {
       "duplicates_removed": 0,
       "input": "ruleset/cncidr.txt",
-      "input_rule_count": 9609,
-      "input_sha256": "b6dd1fb115b7110c1eb4f33a4844d458f0e31b378d99ddebf56b3e34396c0f77",
-      "output_rule_count": 9609,
+      "input_rule_count": 10009,
+      "input_sha256": "67a7a93502bfaf35b0ac7a8b6dc3ad14c6825dc56e5b30eebf87060beb2232fa",
+      "output_rule_count": 10009,
       "outputs": {
         "cncidr.txt": {
-          "bytes": 230034,
-          "sha256": "3376f850bb29d2ae310d461d2df045252f486843caeeb89633f9543ce694d684"
+          "bytes": 239284,
+          "sha256": "43fb0d47a548da3fbe0ff40b8105bc9b5ec03f97e24e8a889bffa61395dc0bcb"
         },
         "ruleset/cncidr.txt": {
-          "bytes": 230034,
-          "sha256": "3376f850bb29d2ae310d461d2df045252f486843caeeb89633f9543ce694d684"
+          "bytes": 239284,
+          "sha256": "43fb0d47a548da3fbe0ff40b8105bc9b5ec03f97e24e8a889bffa61395dc0bcb"
         }
       }
     },
     "direct": {
       "duplicates_removed": 0,
       "input": "ruleset/direct.txt",
-      "input_rule_count": 110924,
-      "input_sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714",
-      "output_rule_count": 110924,
+      "input_rule_count": 110516,
+      "input_sha256": "5b2097e0a09ba5f77206953ea66fc8dbfe4247d779385181bd5a98d938719b95",
+      "output_rule_count": 110516,
       "outputs": {
         "direct.txt": {
-          "bytes": 2956715,
-          "sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714"
+          "bytes": 2945683,
+          "sha256": "5b2097e0a09ba5f77206953ea66fc8dbfe4247d779385181bd5a98d938719b95"
         },
         "ruleset/direct.txt": {
-          "bytes": 2956715,
-          "sha256": "6f3e80989c0315ff2405a189bb8f1646b96f4ac8afc259abb59fc7557649d714"
+          "bytes": 2945683,
+          "sha256": "5b2097e0a09ba5f77206953ea66fc8dbfe4247d779385181bd5a98d938719b95"
         }
       }
     },
     "gfw": {
       "duplicates_removed": 0,
       "input": "ruleset/gfw.txt",
-      "input_rule_count": 4429,
-      "input_sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124",
-      "output_rule_count": 4429,
+      "input_rule_count": 4432,
+      "input_sha256": "8731d97df5e824560b14585af6e743fc828456f31dc62d0af3cc3551cec381f6",
+      "output_rule_count": 4432,
       "outputs": {
         "gfw.txt": {
-          "bytes": 121495,
-          "sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124"
+          "bytes": 121570,
+          "sha256": "8731d97df5e824560b14585af6e743fc828456f31dc62d0af3cc3551cec381f6"
         },
         "ruleset/gfw.txt": {
-          "bytes": 121495,
-          "sha256": "23d1436f6d57f200b777f0c3a0928b8cd77018070db7ba6ab877dbdcca9c7124"
+          "bytes": 121570,
+          "sha256": "8731d97df5e824560b14585af6e743fc828456f31dc62d0af3cc3551cec381f6"
         }
       }
     },
@@ -142,51 +142,51 @@
     "private": {
       "duplicates_removed": 0,
       "input": "ruleset/private.txt",
-      "input_rule_count": 130,
-      "input_sha256": "21764f1415da8a3252463d16cc48bf4c4e695cf64048c821e5860333d271180c",
-      "output_rule_count": 130,
+      "input_rule_count": 132,
+      "input_sha256": "b3b73811228fb28440d848f1d0a94d49b78ed33a564e6d63c7335c7f19015515",
+      "output_rule_count": 132,
       "outputs": {
         "private.txt": {
-          "bytes": 4189,
-          "sha256": "21764f1415da8a3252463d16cc48bf4c4e695cf64048c821e5860333d271180c"
+          "bytes": 4256,
+          "sha256": "b3b73811228fb28440d848f1d0a94d49b78ed33a564e6d63c7335c7f19015515"
         },
         "ruleset/private.txt": {
-          "bytes": 4189,
-          "sha256": "21764f1415da8a3252463d16cc48bf4c4e695cf64048c821e5860333d271180c"
+          "bytes": 4256,
+          "sha256": "b3b73811228fb28440d848f1d0a94d49b78ed33a564e6d63c7335c7f19015515"
         }
       }
     },
     "proxy": {
       "duplicates_removed": 0,
       "input": "ruleset/proxy.txt",
-      "input_rule_count": 27233,
-      "input_sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb",
-      "output_rule_count": 27233,
+      "input_rule_count": 27257,
+      "input_sha256": "c8d9540558038fb0b3030437f65e1cf75ae10d5441150065cca13d063f053c4f",
+      "output_rule_count": 27257,
       "outputs": {
         "proxy.txt": {
-          "bytes": 780273,
-          "sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb"
+          "bytes": 780956,
+          "sha256": "c8d9540558038fb0b3030437f65e1cf75ae10d5441150065cca13d063f053c4f"
         },
         "ruleset/proxy.txt": {
-          "bytes": 780273,
-          "sha256": "5289e263f4c283dd75893f659140b9308340a8ba623e474d4418f3acc56b00bb"
+          "bytes": 780956,
+          "sha256": "c8d9540558038fb0b3030437f65e1cf75ae10d5441150065cca13d063f053c4f"
         }
       }
     },
     "reject": {
       "duplicates_removed": 0,
       "input": "ruleset/reject.txt",
-      "input_rule_count": 191252,
-      "input_sha256": "52589435213e0769dd7f5aea1e3f79a9f791d452df2ce6f8d894dee8548d4c96",
-      "output_rule_count": 191252,
+      "input_rule_count": 195302,
+      "input_sha256": "3075fac4f41200529e2970eb7f8078fc3fb16e68a9ec8d08f7755619dcd95122",
+      "output_rule_count": 195302,
       "outputs": {
         "reject.txt": {
-          "bytes": 6650669,
-          "sha256": "fb30f338a24b7de7339861f8ff05b77d83974fd992922913b3311f830cdc06f8"
+          "bytes": 6797808,
+          "sha256": "31a8b524653d90feff65faf266373e0496ed24454eb2a3819915571c63b1566c"
         },
         "ruleset/reject.txt": {
-          "bytes": 6650669,
-          "sha256": "fb30f338a24b7de7339861f8ff05b77d83974fd992922913b3311f830cdc06f8"
+          "bytes": 6797808,
+          "sha256": "31a8b524653d90feff65faf266373e0496ed24454eb2a3819915571c63b1566c"
         }
       }
     },
@@ -229,6 +229,6 @@
   "upstream": {
     "branch": "release",
     "repository": "Loyalsoldier/surge-rules",
-    "sha": "e76fa3463d3c5e600e8d64617f27cc8a462d49ac"
+    "sha": "42afba754814f6cd08fb88338bcf8bc258f380ad"
   }
 }
