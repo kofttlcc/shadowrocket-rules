@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,bigjapanesesex.com
 DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bild.de
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,binance.com
@@ -2435,7 +2436,6 @@ DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,mcadforums.com
 DOMAIN-SUFFIX,mcaf.ee
 DOMAIN-SUFFIX,mceindex.com
@@ -2644,6 +2644,7 @@ DOMAIN-SUFFIX,ned.org
 DOMAIN-SUFFIX,nekoslovakia.net
 DOMAIN-SUFFIX,neo-miracle.com
 DOMAIN-SUFFIX,neodb.social
+DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,netalert.me
