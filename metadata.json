@@ -40,51 +40,51 @@
     "cncidr": {
       "duplicates_removed": 0,
       "input": "ruleset/cncidr.txt",
-      "input_rule_count": 9647,
-      "input_sha256": "b43c3c799cdb1ea63bd7f7246239f70f2de4fab1c5bb55a6ebbbe45730eb63f0",
-      "output_rule_count": 9647,
+      "input_rule_count": 9640,
+      "input_sha256": "2455141e8b9ca588712e1cf2ec717c98ecfbe3cdd078a4926296835c7c22b324",
+      "output_rule_count": 9640,
       "outputs": {
         "cncidr.txt": {
-          "bytes": 230952,
-          "sha256": "2f6423774b0256af61d79ece42aeb53f24e17909b06be76eb6fc03830afbecf5"
+          "bytes": 230756,
+          "sha256": "7f7ac97b8663bad0d9ffdbc2d2c97535e6e5d0f84d477510466e1cc70bfbf42f"
         },
         "ruleset/cncidr.txt": {
-          "bytes": 230952,
-          "sha256": "2f6423774b0256af61d79ece42aeb53f24e17909b06be76eb6fc03830afbecf5"
+          "bytes": 230756,
+          "sha256": "7f7ac97b8663bad0d9ffdbc2d2c97535e6e5d0f84d477510466e1cc70bfbf42f"
         }
       }
     },
     "direct": {
       "duplicates_removed": 0,
       "input": "ruleset/direct.txt",
-      "input_rule_count": 110188,
-      "input_sha256": "de463bc93c2c47c0bad1f75afbecbfea04a31b342a4acca31172b3045c9ec62b",
-      "output_rule_count": 110188,
+      "input_rule_count": 110243,
+      "input_sha256": "d384a4cb3e30c276c25d306802aad50e984fb4c4561bee3b7b1102949d9bd3c7",
+      "output_rule_count": 110243,
       "outputs": {
         "direct.txt": {
-          "bytes": 2935077,
-          "sha256": "de463bc93c2c47c0bad1f75afbecbfea04a31b342a4acca31172b3045c9ec62b"
+          "bytes": 2936436,
+          "sha256": "d384a4cb3e30c276c25d306802aad50e984fb4c4561bee3b7b1102949d9bd3c7"
         },
         "ruleset/direct.txt": {
-          "bytes": 2935077,
-          "sha256": "de463bc93c2c47c0bad1f75afbecbfea04a31b342a4acca31172b3045c9ec62b"
+          "bytes": 2936436,
+          "sha256": "d384a4cb3e30c276c25d306802aad50e984fb4c4561bee3b7b1102949d9bd3c7"
         }
       }
     },
     "gfw": {
       "duplicates_removed": 0,
       "input": "ruleset/gfw.txt",
-      "input_rule_count": 4452,
-      "input_sha256": "ae2125b98fe8e19dffc231b8932addccfce3ae6c4a85091012223237c8d394b0",
-      "output_rule_count": 4452,
+      "input_rule_count": 4453,
+      "input_sha256": "9911d99abb8522fa458b7f735deb0966a2cb35636d9d91af97c8fee40f26c6e5",
+      "output_rule_count": 4453,
       "outputs": {
         "gfw.txt": {
-          "bytes": 122137,
-          "sha256": "ae2125b98fe8e19dffc231b8932addccfce3ae6c4a85091012223237c8d394b0"
+          "bytes": 122164,
+          "sha256": "9911d99abb8522fa458b7f735deb0966a2cb35636d9d91af97c8fee40f26c6e5"
         },
         "ruleset/gfw.txt": {
-          "bytes": 122137,
-          "sha256": "ae2125b98fe8e19dffc231b8932addccfce3ae6c4a85091012223237c8d394b0"
+          "bytes": 122164,
+          "sha256": "9911d99abb8522fa458b7f735deb0966a2cb35636d9d91af97c8fee40f26c6e5"
         }
       }
     },
@@ -108,17 +108,17 @@
     "greatfire": {
       "duplicates_removed": 0,
       "input": "ruleset/greatfire.txt",
-      "input_rule_count": 11,
-      "input_sha256": "c2f5fbb0fe74bd251b336a2f376c95e2cbb587ae97404895bec18d8d6e830b8d",
-      "output_rule_count": 11,
+      "input_rule_count": 12,
+      "input_sha256": "8b07da3e540d739ad9ee9a438803cdfbbb2440704344fff910458c6fe2e73c8d",
+      "output_rule_count": 12,
       "outputs": {
         "greatfire.txt": {
-          "bytes": 340,
-          "sha256": "c2f5fbb0fe74bd251b336a2f376c95e2cbb587ae97404895bec18d8d6e830b8d"
+          "bytes": 370,
+          "sha256": "8b07da3e540d739ad9ee9a438803cdfbbb2440704344fff910458c6fe2e73c8d"
         },
         "ruleset/greatfire.txt": {
-          "bytes": 340,
-          "sha256": "c2f5fbb0fe74bd251b336a2f376c95e2cbb587ae97404895bec18d8d6e830b8d"
+          "bytes": 370,
+          "sha256": "8b07da3e540d739ad9ee9a438803cdfbbb2440704344fff910458c6fe2e73c8d"
         }
       }
     },
@@ -159,34 +159,34 @@
     "proxy": {
       "duplicates_removed": 0,
       "input": "ruleset/proxy.txt",
-      "input_rule_count": 27346,
-      "input_sha256": "acc4ff8a244c02ab8705171606de44ec10ef0bce331a42f7085ed996b7a9c6d7",
-      "output_rule_count": 27346,
+      "input_rule_count": 27357,
+      "input_sha256": "38eddd37fb68c6d58cc8b380c7a33b09bd0b26b650fe96fd867dc9b1267fefc4",
+      "output_rule_count": 27357,
       "outputs": {
         "proxy.txt": {
-          "bytes": 783417,
-          "sha256": "acc4ff8a244c02ab8705171606de44ec10ef0bce331a42f7085ed996b7a9c6d7"
+          "bytes": 783752,
+          "sha256": "38eddd37fb68c6d58cc8b380c7a33b09bd0b26b650fe96fd867dc9b1267fefc4"
         },
         "ruleset/proxy.txt": {
-          "bytes": 783417,
-          "sha256": "acc4ff8a244c02ab8705171606de44ec10ef0bce331a42f7085ed996b7a9c6d7"
+          "bytes": 783752,
+          "sha256": "38eddd37fb68c6d58cc8b380c7a33b09bd0b26b650fe96fd867dc9b1267fefc4"
         }
       }
     },
     "reject": {
       "duplicates_removed": 0,
       "input": "ruleset/reject.txt",
-      "input_rule_count": 199844,
-      "input_sha256": "344438797e3f2e1e2f341a48740094fc8f1448982b4702589c75c314f2ecef73",
-      "output_rule_count": 199844,
+      "input_rule_count": 201102,
+      "input_sha256": "eb6526b3a9b930bd388a9f34ea23d6558d5ebe28f2518fbe8c97a28f3d7016c2",
+      "output_rule_count": 201102,
       "outputs": {
         "reject.txt": {
-          "bytes": 6986481,
-          "sha256": "43c4ba945311062b9d7ccde1c474e82de5824065fab60247ad4a0a6b01c35b11"
+          "bytes": 7029547,
+          "sha256": "c58485a8a7223f2cc1552b33be0fa0daaaf57897c64dc898179a161775710841"
         },
         "ruleset/reject.txt": {
-          "bytes": 6986481,
-          "sha256": "43c4ba945311062b9d7ccde1c474e82de5824065fab60247ad4a0a6b01c35b11"
+          "bytes": 7029547,
+          "sha256": "c58485a8a7223f2cc1552b33be0fa0daaaf57897c64dc898179a161775710841"
         }
       }
     },
@@ -229,6 +229,6 @@
   "upstream": {
     "branch": "release",
     "repository": "Loyalsoldier/surge-rules",
-    "sha": "392fa2bd0e82629063b3c6d84239df5d253a69f5"
+    "sha": "9916c566ac84ad1e562324c08779fd968a581885"
   }
 }
